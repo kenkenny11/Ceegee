@@ -1,1 +1,1 @@
-# Ceegee
+# Cointiply-miniApp
